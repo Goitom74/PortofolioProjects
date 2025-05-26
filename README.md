@@ -1,5 +1,5 @@
 # Portofolio Projects
-Welcome to my Portofolio of data analytics projects. This reposit0ry showcases a collection of work that demonstrates my skills in data analysis,
+Welcome to my Portofolio of data analytics projects. This repository showcases a collection of work that demonstrates my skills in data analysis,
 query data from different sources, cleaning data, and exploratory data analysis, and data visualizations.
 
 # About Me
